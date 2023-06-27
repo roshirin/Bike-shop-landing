@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# A responsive Bike shop landing page
+
+Dark theme, user-friendly, nicely fit devices with different screen widths and resolutions.
+
+### HTML, CSS, SCSS, BEM.
+
+Check out the demo: [Bike shop](https://roshirin.github.io/Bike-shop-landing/)
